@@ -1,0 +1,6 @@
+soccerdata
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
